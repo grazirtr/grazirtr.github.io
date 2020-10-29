@@ -42,16 +42,16 @@
                             alt="Graziela Ribeiro Teçari Ropelato">
                     </div>
                     <div class="header__base-info">
-                        <h4 class="title titl--h4">Iury Gomes de Oliveira</h4>
+                        <h4 class="title titl--h4">Graziela Ribeiro Teçari Ropelato</h4>
                         <div class="status">Desenvolvedor WEB</div>
                         <ul class="header__social">
                             <li>
-                                <a href="https://www.linkedin.com/in/iurygdeoliveira/">
+                                <a href="https://www.linkedin.com/in/grazirtr/">
                                     <i class="font-icon icon-linkedin"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/iurygdeoliveira">
+                                <a href="https://github.com/grazirtr">
                                     <i class="font-icon icon-github"></i>
                                 </a>
                             </li>
@@ -61,7 +61,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/IuryProf">
+                                <a href="https://twitter.com/grazirtr">
                                     <i class="font-icon icon-twitter"></i>
                                 </a>
                             </li>
@@ -171,7 +171,7 @@
                     </div>
 
                     <!-- Footer -->
-                    <footer class="footer">© Iury Gomes de Oliveira</footer>
+                    <footer class="footer">© Graziela Ribeiro Teçari Ropelato</footer>
                 </div>
             </div>
         </div>
