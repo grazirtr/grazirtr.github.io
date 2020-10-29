@@ -43,7 +43,7 @@
                     </div>
                     <div class="header__base-info">
                         <h4 class="title titl--h4">Graziela Ribeiro Teçari Ropelato</h4>
-                        <div class="status">Desenvolvedor WEB</div>
+                        <div class="status">Desenvolvedora WEB</div>
                         <ul class="header__social">
                             <li>
                                 <a href="https://www.linkedin.com/in/grazirtr/">
